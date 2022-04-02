@@ -1133,7 +1133,7 @@ a, a:hover, .overlay, img, .form-control, .form-control:hover, button {
 
 .projects-content {
   position: absolute;
-  width: 100%;
+  width: auto;
   height: auto;
   left: 0;
   bottom: 0;
@@ -1175,7 +1175,7 @@ a, a:hover, .overlay, img, .form-control, .form-control:hover, button {
 .project-item .view-icon {
   position: absolute;
   width: auto;
-  height: auto;
+  height: 100%;
   right: 40px;
   top: 30px;
   display: block;
