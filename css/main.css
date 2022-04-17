@@ -400,6 +400,10 @@ button {
   margin-bottom: 10px;
   z-index: 1
 }
+.header_logo{
+  height: 50px;
+  width: 50px;
+}
 
 .section-heading span:before {
   background-color: transparent;
@@ -2452,6 +2456,10 @@ blockquote span {
   top: 0;
   right: 0;
   cursor: pointer
+}
+.footer_logo{
+  height: 50px;
+  width: 50px;
 }
 
 .footer-section {
